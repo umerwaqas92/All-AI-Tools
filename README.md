@@ -22,4 +22,18 @@ Upscale, denoise and enhance your images in seconds
 
 * https://clipdrop.co/relight
  
+ 
+ 
+### Erase.bg
+Remove Background From Images For Free
 
+`Remove the background`  `Free` 
+
+* https://www.erase.bg/
+
+### Upscale.media
+Upscale and Enhance Your Images for FREE
+
+ `Upscale`  `Free` 
+
+* https://www.upscale.media/
