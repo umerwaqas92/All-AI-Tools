@@ -37,3 +37,10 @@ Upscale and Enhance Your Images for FREE
  `Upscale`  `Free` 
 
 * https://www.upscale.media/
+
+### Namelix
+generate a short, brandable business name using artificial intelligence
+
+ `Business Name Generator`  `Free` 
+
+* https://namelix.com/
