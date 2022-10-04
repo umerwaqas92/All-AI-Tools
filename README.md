@@ -50,3 +50,8 @@ Machine learning doesn’t need to be so hard. Run open-source models with a clo
  `API` `Machine learning`
 
 * https://replicate.com/
+
+
+### Codegeex
+CodeGeeX has good performance for generating executable programs in several mainstream programming languages, including Python, C++, Java, JavaScript, Go, etc.
+* https://models.aminer.cn/codegeex/codeTranslator
