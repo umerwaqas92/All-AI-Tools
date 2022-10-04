@@ -44,3 +44,9 @@ generate a short, brandable business name using artificial intelligence
  `Business Name Generator`  `Free` 
 
 * https://namelix.com/
+
+### Replicate
+Machine learning doesn’t need to be so hard. Run open-source models with a cloud API.
+ `API` `Machine learning`
+
+* https://replicate.com/
